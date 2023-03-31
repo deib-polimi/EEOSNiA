@@ -1,0 +1,104 @@
+{
+  "pins" : [
+    {
+      "identity" : "carthage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Carthage/Carthage.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "187a78c62811d3d75a9b1d41bfaeff708936125d"
+      }
+    },
+    {
+      "identity" : "commandant",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Carthage/Commandant.git",
+      "state" : {
+        "revision" : "a1671cf728db837cf5ec1980a80d276bbba748f6",
+        "version" : "0.18.0"
+      }
+    },
+    {
+      "identity" : "curry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/thoughtbot/Curry.git",
+      "state" : {
+        "revision" : "4331dd50bc1db007db664a23f32e6f3df93d4e1a",
+        "version" : "4.0.2"
+      }
+    },
+    {
+      "identity" : "nimble",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Nimble.git",
+      "state" : {
+        "revision" : "7a46a5fc86cb917f69e3daf79fcb045283d8f008",
+        "version" : "8.1.2"
+      }
+    },
+    {
+      "identity" : "prettycolors",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jdhealy/PrettyColors.git",
+      "state" : {
+        "revision" : "afd4553a4db6f656521cfe9b1f70bece2748c7d8",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "quick",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Quick.git",
+      "state" : {
+        "revision" : "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+        "version" : "2.2.1"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c37950dc5020544c58d4bf47c0d028893686b9e6",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "reactivetask",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Carthage/ReactiveTask.git",
+      "state" : {
+        "revision" : "df1bf7625684180b9377a8ba3c076db08d98757e",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "result",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/antitypical/Result.git",
+      "state" : {
+        "revision" : "2ca499ba456795616fbc471561ff1d963e6ae160",
+        "version" : "4.1.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "tentacle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mdiep/Tentacle.git",
+      "state" : {
+        "revision" : "578edd088b03bc749c49253b15ae2d5aaa9aa7df",
+        "version" : "0.13.1"
+      }
+    }
+  ],
+  "version" : 2
+}
